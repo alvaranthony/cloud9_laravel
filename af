@@ -1,0 +1,24 @@
+[33mcommit 35440c39278d5848a65ede53036a97ddbd1061a5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Alvar Anthony Hamalainen <alvar.hamalainen@vikk.ee>
+Date:   Thu Sep 21 07:06:41 2017 +0000
+
+    testing commits and pushes
+
+[33mcommit 3f71157e01c271e5cd5ee7e6254c26c0e4745e68[m
+Merge: 35f5d5f 1523fbb
+Author: Alvar Anthony Hamalainen <alvar.hamalainen@vikk.ee>
+Date:   Thu Sep 21 06:59:44 2017 +0000
+
+    Merge branch 'master' of https://github.com/alvaranthony/cloud9_laravel
+
+[33mcommit 35f5d5fae05f17149d7c2a5f299a5771498157b7[m
+Author: Alvar Anthony Hamalainen <alvar.hamalainen@vikk.ee>
+Date:   Thu Sep 21 06:55:07 2017 +0000
+
+    laravel test
+
+[33mcommit 1523fbbaace0870f83ac6b2d20b4fc83a7053640[m
+Author: alvaranthony <32156005+alvaranthony@users.noreply.github.com>
+Date:   Thu Sep 21 09:26:00 2017 +0300
+
+    Initial commit
